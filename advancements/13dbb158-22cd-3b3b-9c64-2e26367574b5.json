@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga_hills": "2019-08-02 00:18:46 +0700",
+      "river": "2019-08-02 00:18:58 +0700"
+    },
+    "done": false
+  }
+}
